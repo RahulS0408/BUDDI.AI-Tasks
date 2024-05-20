@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains code to perform a polynomial regression analysis and visualize the error surface using a 3D plot. The code iterates over different values of the coefficients \( \beta_1 \) and \( \beta_2 \) for a polynomial model to find the combination that minimizes the sum of absolute errors between the predicted and actual values.
+This folder contains code to perform a polynomial regression analysis and visualize the error surface using a 3D plot. The code iterates over different values of the coefficients \( \beta_1 \) and \( \beta_2 \) for a polynomial model to find the combination that minimizes the sum of absolute errors between the predicted and actual values.
 
 ## Code Description
 
