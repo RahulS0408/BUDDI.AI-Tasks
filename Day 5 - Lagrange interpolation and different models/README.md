@@ -20,11 +20,11 @@ The script `polynomial_regression.py` produces two output images:
 
 1. Plot of Different Models: This image shows the plot of the biquadratic polynomial and 101 x-values in the range (-5,5) with generated y-values for different models such as linear, quadratic, cubic, and Lagrange interpolation.
 
-![Plot of different models](Buddi5(2).png)
+![Plot of different models](Buddi5(2,2).png)
 
 2. Bias-Variance Tradeoff Graph: This image shows the bias-variance tradeoff for models such as linear, quadratic, cubic, and biquadratic. It compares the training error (bias) and testing error (variance) for different model complexities.
 
-![Bias-Variance Tradeoff](Buddi5(2,2).png)
+![Bias-Variance Tradeoff](Buddi5(2).png)
 
 ## Dependencies
 
@@ -39,11 +39,11 @@ The script `polynomial_regression.py` produces two output images:
 4. Run each script separately:
    - For Lagrange Interpolation, run:
      ```sh
-     python lagrange_interpolation.py
+     python Buddi5.py
      ```
    - For Polynomial Regression, run:
      ```sh
-     python polynomial_regression.py
+     python Buddi5(2).py
      ```
 
 5. The visualizations will be displayed.
