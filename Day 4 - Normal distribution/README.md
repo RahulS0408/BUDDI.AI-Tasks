@@ -1,7 +1,7 @@
 
 # Normal Distribution Visualizations
 
-This repository contains Python scripts for visualizing normal distributions with different mean and standard deviation parameters.
+This folder contains Python scripts for visualizing normal distributions with different mean and standard deviation parameters.
 
 ## Code Descriptions
 
