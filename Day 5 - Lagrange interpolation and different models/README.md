@@ -1,6 +1,6 @@
 # Polynomial Regression and Lagrange Interpolation
 
-This repository contains Python scripts for polynomial regression and Lagrange interpolation.
+This folder contains Python scripts for polynomial regression and Lagrange interpolation.
 
 ## 1. Lagrange Interpolation
 
