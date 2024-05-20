@@ -36,11 +36,11 @@ The script `normal_distribution_std.py` visualizes three normal distributions wi
 4. Run each script separately:
    - For the first visualization, run:
      ```sh
-     python normal_distribution_mean.py
+     python Buddi4.py
      ```
    - For the second visualization, run:
      ```sh
-     python normal_distribution_std.py
+     python Buddi4(2).py
      ```
 
 5. The visualizations will be displayed, showing the normal distribution curves.
