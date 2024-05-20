@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains a Python script that uses the Monte Carlo method to estimate the value of π (pi). The code performs multiple simulations with increasing numbers of random points (darts) and plots the estimated value of π against the number of darts used. Additionally, it smooths the resulting curve using a moving average.
+This folder contains a Python script that uses the Monte Carlo method to estimate the value of π (pi). The code performs multiple simulations with increasing numbers of random points (darts) and plots the estimated value of π against the number of darts used. Additionally, it smooths the resulting curve using a moving average.
 
 ## Code Description
 
