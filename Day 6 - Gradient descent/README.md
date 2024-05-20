@@ -1,6 +1,6 @@
 # Gradient Descent
 
-This repository contains Python code examples demonstrating various gradient descent algorithms for linear regression.
+This folder contains Python code examples demonstrating various gradient descent algorithms for linear regression.
 
 ## Introduction
 
