@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains a Python function `drawSamples` that performs sampling from a discrete probability mass function (PMF). The function generates random samples based on the provided PMF and returns a list of sampled items.
+This folder contains a Python function `drawSamples` that performs sampling from a discrete probability mass function (PMF). The function generates random samples based on the provided PMF and returns a list of sampled items.
 
 ## Code Description
 
