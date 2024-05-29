@@ -15,3 +15,4 @@ This repository contains the assignments completed during my internship at Buddi
 ## Normal distribution by mean and standard deviation 
 ## Gradient Descent 
 ## Regressor classifier
+## Convolutional Neural Networks
