@@ -47,5 +47,11 @@ To use the script, you can modify the strings `s1` and `s2` with your own string
 
 The plot helps visualize where the two strings have more exact and partial matches, with peaks indicating higher matches.
 
+
+## Results:
+![Convolution of two strings](Buddi8.png)
+![Convolution of image](Buddi8(2).png)
+
+
 ## Conclusion
 This script provides a basic example of string convolution, counting exact and partial word matches, and visualizing the results using a line plot. Modify the example strings to see how different inputs affect the convolution results.
